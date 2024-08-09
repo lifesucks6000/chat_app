@@ -6,7 +6,7 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Flutter Chat')),
+      appBar: AppBar(title: const Text('Private Group')),
       body: const Center(
         child: Text('Loading...'),
       ),
